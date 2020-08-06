@@ -71,7 +71,7 @@ https://developer.twitter.com/apps
       $ heroku login
       ```
       ```bash
-      $ heroku git:clone -a your_Heroku_app_name
+      $ heroku git:remote -a your_Heroku_app_name
       ```
       ```bash
       $ git push heroku master
