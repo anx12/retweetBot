@@ -12,8 +12,7 @@ I wouldn't recommend anything less than 40 seconds.
    'access_token_secret' keys. 
    Make sure to save the api_key, api_secret_key, access_token and access_token_secret key to your notepad before proceeding and then put them in your script.py
    Also put your search-term in script.py in line(11).
-   You can change the number of tweets which contain the search_term in script.py line(12)
-   https://developer.twitter.com/apps
+     https://developer.twitter.com/apps
 
 * [Git](https://git-scm.com/downloads)
 
@@ -39,8 +38,7 @@ I wouldn't recommend anything less than 40 seconds.
    ```bash
    git clone https://github.com/anx12/retweetBot.git
    ```
-   * This will create a folder named 'retweetBot' in your Desktop folder. The 'retweetBot' folder will contain all the files including 'script.py' file. Open script.py in            your editor(notepad or any other) and place your api_key, api_secret_key, access_token and access_token_secret keys in script.py. Then go back to terminal or command
-     prompt and enter the below commands.
+   * This will create a folder named 'retweetBot' in your Desktop folder. The 'retweetBot' folder will contain all the files including 'script.py' file. Open script.py in            your editor(notepad or any other) and place your api_key, api_secret_key, access_token and access_token_secret keys in script.py and save. Then go back to terminal or            command-prompt and enter the below commands.
    ```bash
    cd retweetBot
    ```
