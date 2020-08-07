@@ -9,7 +9,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 user = api.me()
 
 search = 'your search_term' # search_term can be a mention, word, sentence or hashtags
-numTweets = 1000
+numTweets = 100
 
 
 while True:
